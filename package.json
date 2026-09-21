@@ -62,7 +62,7 @@
     "@decaf-ts/styles": "latest",
     "@decaf-ts/transactional-decorators": "latest",
     "@decaf-ts/ui-decorators": "latest",
-    "next": "16.0.3",
+    "next": "16.3.3",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
